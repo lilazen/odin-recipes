@@ -1,0 +1,55 @@
+body {
+    background-color: linen;
+}
+
+* { 
+    font-family:sans-serif;
+    font-weight: 900;
+    color: rgb(2, 63, 12);
+    text-align: start;
+}
+
+h1 {
+    color: rgb(158, 133, 184);
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.imgContainer {
+    text-align: center;
+}
+
+.imgContainer p {
+    font-size: 12px;
+}
+
+h2 {
+    color: rgb(69, 95, 86);
+    text-align: center;
+}
+
+h4 {
+    font-size: 17px;
+}
+
+h5 {
+    font-size: 17px;
+}
+
+p {font-size: 12px; }
+
+#oshawa {
+    background-color: rgb(212, 221, 215);
+}
+
+ul li {
+    background-color: rgb(212, 221, 215);
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.pastafrola {
+    background-color: rgb(212, 221, 215);
+}
